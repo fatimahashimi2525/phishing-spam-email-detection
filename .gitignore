@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
+*.zip
+*.xlsx
+
+# Generated results
+*.pkl
+*.joblib
+
+# Local/Colab files
+/content/
+/home/claude/
